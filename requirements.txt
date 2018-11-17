@@ -1,5 +1,4 @@
 django
-gunicorn
 django-heroku
 requests
 Flask==0.10.1
